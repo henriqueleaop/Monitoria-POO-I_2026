@@ -15,6 +15,30 @@ O objetivo é manter o código feito durante as monitorias organizado e disponí
 
 ---
 
+## 📌 Materiais da monitoria
+
+Os materiais da monitoria estão distribuídos entre este repositório e uma pasta compartilhada no Google Drive:
+
+### 💻 GitHub
+
+Este repositório concentra principalmente:
+
+* códigos desenvolvidos durante os atendimentos;
+* exemplos;
+* exercícios;
+* pequenos projetos;
+* eventuais notas e materiais relacionados às sessões.
+
+### 📁 Google Drive
+
+Outros materiais complementares da monitoria podem ser encontrados na pasta compartilhada:
+
+👉 [Acessar a pasta da monitoria no Google Drive](https://drive.google.com/drive/folders/1WuhWswJtoo489-fe92EEizBSg1Wcj09q?dmr=1&ec=wgc-drive-%5Bmodule%5D-goto)
+
+Sempre que possível, os materiais serão organizados para facilitar a relação entre o conteúdo desenvolvido durante os atendimentos e os arquivos disponíveis aqui no GitHub.
+
+---
+
 ## 📚 Organização do repositório
 
 Os materiais são organizados primeiro pelo **mês** e depois pela **data da monitoria**.
