@@ -33,7 +33,7 @@ Este repositório concentra principalmente:
 
 Outros materiais complementares da monitoria podem ser encontrados na pasta compartilhada:
 
-👉 [Acessar a pasta da monitoria no Google Drive](https://drive.google.com/drive/folders/1WuhWswJtoo489-fe92EEizBSg1Wcj09q?dmr=1&ec=wgc-drive-%5Bmodule%5D-goto)
+👉 [Acessar a pasta da monitoria no Google Drive](https://drive.google.com/drive/folders/14H1aeLXiYUzop1Y-Z4sep2QJu1ou2cNJ?usp=sharing)
 
 Sempre que possível, os materiais serão organizados para facilitar a relação entre o conteúdo desenvolvido durante os atendimentos e os arquivos disponíveis aqui no GitHub.
 
