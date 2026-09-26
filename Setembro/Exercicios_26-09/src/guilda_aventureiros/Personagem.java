@@ -45,6 +45,11 @@ public class Personagem {
     public boolean estaVivo(){
         return (this.HP > 0);
     }
+
+    @Override
+    public String toString() {
+        return "Personagem{" + "nome=" + nome + ", nivel=" + nivel + ", HP=" + HP + '}';
+    }
     
    
     

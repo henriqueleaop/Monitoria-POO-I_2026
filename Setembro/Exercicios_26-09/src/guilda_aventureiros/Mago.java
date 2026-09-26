@@ -27,6 +27,11 @@ public class Mago extends Personagem {
         return false;
     }
     
+    @Override
+    public String getNome(){
+        return "Arcano " + super.getNome();
+    }
+    
     
     
     
