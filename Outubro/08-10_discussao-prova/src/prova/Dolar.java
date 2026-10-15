@@ -1,7 +1,7 @@
 package prova;
 
 public class Dolar extends Moeda {
-    private static double cotacao = 5.0; 
+    public static double cotacao = 5.0; 
     
     
     public Dolar() {
