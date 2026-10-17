@@ -41,7 +41,7 @@ Sempre que possível, os materiais serão organizados para facilitar a relação
 
 ## 📚 Organização do repositório
 
-Os materiais são organizados primeiro pelo **mês** e depois pela **data da monitoria**.
+Os materiais são organizados primeiro pelo **mês** e depois pela **data da monitoria**. As pastas dos meses começam com o número do mês (`08 - Agosto`, `09 - Setembro`, `10 - Outubro`...) para aparecerem em ordem cronológica.
 
 Por exemplo:
 
@@ -50,7 +50,7 @@ Monitoria-POO-I_2026/
 │
 ├── README.md
 │
-└── Agosto/
+└── 08 - Agosto/
     └── 22-08/
         └── Exemplo/
             ├── src/
@@ -75,7 +75,7 @@ A ideia é que o caminho indique **quando aquele código foi desenvolvido**.
 Por exemplo:
 
 ```text
-Agosto/22-08/Exemplo/
+08 - Agosto/22-08/Exemplo/
 ```
 
 significa:
@@ -99,7 +99,7 @@ src/
 Por exemplo:
 
 ```text
-Agosto/
+08 - Agosto/
 └── 22-08/
     └── Exemplo/
         └── src/
@@ -159,7 +159,7 @@ Na página principal do repositório:
 Exemplo:
 
 ```text
-Agosto/22-08/Exemplo
+08 - Agosto/22-08/Exemplo
 ```
 
 No NetBeans, você pode utilizar:
