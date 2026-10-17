@@ -1,6 +1,6 @@
-# Monitoria de 17/10 — Polimorfismo com transportes
+# Monitoria de 17/10 — Polimorfismo
 
-Resolução do **Exercício 1 (Sobrescrita com Herança)** da [lista de exercícios de polimorfismo](Lista_Exercicios_Polimorfismo_Java.pdf), feita durante a monitoria remota.
+Resolução do **Exercício 1 (Sobrescrita com Herança)** da [lista de exercícios de polimorfismo](enunciado.pdf): transportes com tarifas diferentes.
 
 ## Onde está o código
 
@@ -28,3 +28,5 @@ src/ex01_transporte/
 2. O `main` cria **10 milhões** de transportes, como no teste feito na monitoria. Para ver o resultado rapidamente, troque `10000000` por `10`.
 3. Refaça sozinho o **Exercício 2** (despesas), que usa as mesmas ideias: classe mãe, duas filhas que sobrescrevem `calcularTotal()` e uma coleção percorrida chamando o método.
 4. Desafio: o **Exercício 3** (carrinho) acrescenta **sobrecarga** de métodos (`adicionarProduto` com parâmetros diferentes).
+
+Abra a pasta no NetBeans (**File → Open Project**) e execute a classe que tem o método `main`.

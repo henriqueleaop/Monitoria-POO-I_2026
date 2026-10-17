@@ -41,77 +41,48 @@ Sempre que possível, os materiais serão organizados para facilitar a relação
 
 ## 📚 Organização do repositório
 
-Os materiais são organizados primeiro pelo **mês** e depois pela **data da monitoria**. As pastas dos meses começam com o número do mês (`08 - Agosto`, `09 - Setembro`, `10 - Outubro`...) para aparecerem em ordem cronológica.
-
-Por exemplo:
+Cada monitoria fica em uma pasta própria, dentro do mês:
 
 ```text
-Monitoria-POO-I_2026/
-│
-├── README.md
-│
-└── 08 - Agosto/
-    └── 22-08/
-        └── Exemplo/
-            ├── src/
-            │   ├── exemplo/
-            │   │   ├── Exemplo.java
-            │   │   ├── SistemaAlunoRefatoradooc.java
-            │   │   └── SistemaAlunos.java
-            │   │
-            │   └── exLoja/
-            │       ├── Loja.java
-            │       └── Produto.java
-            │
-            ├── test/
-            ├── nbproject/
-            ├── build/
-            ├── build.xml
-            └── manifest.mf
+MM - Mês/DD-MM_assunto/
 ```
 
-A ideia é que o caminho indique **quando aquele código foi desenvolvido**.
-
-Por exemplo:
+As pastas dos meses começam com o número do mês (`08 - Agosto`, `09 - Setembro`, `10 - Outubro`...) para aparecerem em ordem cronológica. Cada pasta de monitoria é um projeto do NetBeans com o mesmo nome da pasta e tem um `README.md` explicando o que foi feito, os conceitos trabalhados e sugestões de prática. Quando houver lista de exercícios, ela fica na própria pasta como `enunciado.pdf`.
 
 ```text
-08 - Agosto/22-08/Exemplo/
+10 - Outubro/
+└── 17-10_polimorfismo/
+    ├── README.md            o que foi feito e como praticar
+    ├── enunciado.pdf        lista de exercícios (quando houver)
+    ├── src/                 código-fonte (.java)
+    │   └── ex01_transporte/
+    ├── nbproject/           configuração do NetBeans
+    ├── build.xml
+    └── manifest.mf
 ```
 
-significa:
+Por exemplo, `10 - Outubro/17-10_polimorfismo/` significa: monitoria de **17/10**, sobre **polimorfismo**.
 
-```text
-Mês: Agosto
-Data da monitoria: 22/08
-Projeto: Exemplo
-```
+## 🗓️ Monitorias
+
+<!-- índice gerado por ferramentas/monitoria.py -->
+| Data | Assunto | Pasta |
+|---|---|---|
+| 22/08 | Classes e objetos | [22-08_classes-e-objetos](08%20-%20Agosto/22-08_classes-e-objetos/) |
+| 29/08 | Alunos, médias e vetores | [29-08_alunos-e-vetores](08%20-%20Agosto/29-08_alunos-e-vetores/) |
+| 05/09 | Encapsulamento | [05-09_encapsulamento](09%20-%20Setembro/05-09_encapsulamento/) |
+| 24/09 | Static e encapsulamento | [24-09_static-e-encapsulamento](09%20-%20Setembro/24-09_static-e-encapsulamento/) |
+| 26/09 | Herança | [26-09_heranca](09%20-%20Setembro/26-09_heranca/) |
+| 01/10 | Revisão para a prova | [01-10_revisao-prova](10%20-%20Outubro/01-10_revisao-prova/) |
+| 08/10 | Discussão da prova | [08-10_discussao-prova](10%20-%20Outubro/08-10_discussao-prova/) |
+| 17/10 | Polimorfismo | [17-10_polimorfismo](10%20-%20Outubro/17-10_polimorfismo/) |
+<!-- fim do índice -->
 
 ---
 
 ## 🔎 Onde está o código que eu devo estudar?
 
-Na maioria das vezes, o que você procura estará dentro da pasta:
-
-```text
-src/
-```
-
-Por exemplo:
-
-```text
-08 - Agosto/
-└── 22-08/
-    └── Exemplo/
-        └── src/
-            ├── exemplo/
-            │   ├── Exemplo.java
-            │   ├── SistemaAlunoRefatoradooc.java
-            │   └── SistemaAlunos.java
-            │
-            └── exLoja/
-                ├── Loja.java
-                └── Produto.java
-```
+Na maioria das vezes, o que você procura estará dentro da pasta `src/` de cada monitoria. Comece pelo `README.md` da pasta: ele indica onde está cada arquivo.
 
 Os arquivos terminados em:
 
@@ -159,7 +130,7 @@ Na página principal do repositório:
 Exemplo:
 
 ```text
-08 - Agosto/22-08/Exemplo
+10 - Outubro/17-10_polimorfismo
 ```
 
 No NetBeans, você pode utilizar:
@@ -237,7 +208,7 @@ Nem todos os exemplos necessariamente terão testes.
 
 ### `build/`
 
-Pode conter arquivos gerados durante a compilação.
+Aparece no seu computador quando o NetBeans compila o projeto e contém os arquivos gerados na compilação. Por isso não fica no repositório: cada um gera o seu.
 
 Por exemplo:
 
