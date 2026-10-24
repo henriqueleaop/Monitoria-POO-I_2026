@@ -76,6 +76,7 @@ Por exemplo, `10 - Outubro/17-10_polimorfismo/` significa: monitoria de **17/10*
 | 01/10 | Revisão para a prova | [01-10_revisao-prova](10%20-%20Outubro/01-10_revisao-prova/) |
 | 08/10 | Discussão da prova | [08-10_discussao-prova](10%20-%20Outubro/08-10_discussao-prova/) |
 | 17/10 | Polimorfismo | [17-10_polimorfismo](10%20-%20Outubro/17-10_polimorfismo/) |
+| 24/10 | Formas geométricas | [24-10_formas-geometricas](10%20-%20Outubro/24-10_formas-geometricas/) |
 <!-- fim do índice -->
 
 ---
