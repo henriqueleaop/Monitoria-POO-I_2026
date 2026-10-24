@@ -42,6 +42,6 @@ A configuração recebida do NetBeans usa Java 26. Se seu ambiente tiver outra v
 - [Minutagem do encontro](minutagem.md)
 - [Transcrição temática para estudo](transcricao-estudo.md) — texto editado, sem identificação de falantes; não é transcrição literal.
 
-Os tempos começam no início do vídeo publicado, após o corte de 6min18s do arquivo original. A gravação e os documentos de apoio ficarão na [pasta da monitoria no Google Drive](https://drive.google.com/drive/folders/14H1aeLXiYUzop1Y-Z4sep2QJu1ou2cNJ).
+Os tempos começam no início do vídeo publicado, após o corte de 6min18s do arquivo original. Consulte o monitor para acessar a gravação e os documentos de apoio no Drive.
 
 Abra a pasta no NetBeans (**File → Open Project**) e execute a classe que tem o método `main`.
