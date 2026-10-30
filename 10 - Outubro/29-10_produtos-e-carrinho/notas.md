@@ -1,6 +1,6 @@
 # Notas de estudo da monitoria de 29 de outubro de 2026
 
-O exercício 3 da lista de polimorfismo propõe um sistema de pedidos com produtos nacionais e importados. O código desta monitoria implementa parte do sistema e permite estudar herança, polimorfismo, sobrecarga e conversão de referências. A implementação recebida foi preservada; os pontos restantes estão indicados para continuidade.
+O exercício 3 da Lista de Exercícios - Polimorfismo em Java propõe um sistema de pedidos com produtos nacionais e importados. O código desta monitoria implementa parte do sistema e permite estudar herança, polimorfismo, sobrecarga e conversão de referências. A implementação recebida foi preservada; os pontos restantes estão indicados para continuidade.
 
 ## Produto e ProdutoImportado
 

@@ -1,6 +1,6 @@
 # Monitoria de 29/10 — Produtos e carrinho
 
-Implementação parcial do exercício 3 da lista de polimorfismo: um sistema de pedidos com produtos nacionais e importados. O projeto registra o código desenvolvido na monitoria e os pontos para continuidade.
+Implementação parcial do exercício 3 da Lista de Exercícios - Polimorfismo em Java: um sistema de pedidos com produtos nacionais e importados. O projeto registra o código desenvolvido na monitoria e os pontos para continuidade.
 
 ## Materiais
 
